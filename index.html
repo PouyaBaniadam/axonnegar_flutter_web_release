@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+  <meta charset="UTF-8">
+  <title>AxonNegar web</title>
+</head>
+<body>
+<!-- Use a single module script to ensure everything is in scope -->
+<script type="module">
+  // 1. Import directly from your local file
+  // Note: Use the relative path from index.html
+  import * as pdfjsLib from './assets/jsdelivr.mjs';
+
+  // 2. Make it globally available for Flutter packages that expect it
+  window.pdfjsLib = pdfjsLib;
+
+  // 3. Configure the worker (Must match the version of your .mjs file)
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/build/pdf.worker.mjs';
+
+  window.pdfRenderOptions = {
+    cMapUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/cmaps/',
+    cMapPacked: true,
+  };
+</script>
+
+<script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
