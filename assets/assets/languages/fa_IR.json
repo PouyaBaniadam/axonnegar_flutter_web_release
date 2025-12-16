@@ -621,7 +621,7 @@
   "yesSwitchAndTurnOff": "بله، تغییر دهید و خاموش کنید",
   "topP": "Top P",
   "deleteConversation": "حذف گفت و گو",
-  "doYouWantToDeleteThisConversation": "آیا می خواهید این مدل از گفت و گو را حذف کنید؟",
+  "doYouWantToDeleteThisConversation": "آیا می خواهید این گفت و گو را حذف کنید؟",
   "incompatibleFileTypeAndAIModel": "نوع فایل و مدل هوش مصنوعی ناسازگار هستند",
   "changeModelConfirmationMessageWithFileRemoval": "فایل انتخاب‌شده «%s» توسط مدل %s پشتیبانی نمی‌شود. اگر به این مدل تغییر دهید، فایل از پیام حذف خواهد شد.",
   "yesSwitchAndRemoveFile": "بله، تغییر دهید و فایل را حذف کنید",
