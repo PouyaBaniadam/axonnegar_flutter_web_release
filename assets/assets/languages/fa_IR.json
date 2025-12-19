@@ -890,5 +890,9 @@
   "tanha": "تنها",
   "noDescription": "بدون توضیحات",
   "activate": "فعالسازی",
-  "shareAppMessage": "\"کشف جدید من در دنیای تکنولوژی! این برنامه هوش مصنوعی فوق\u200Cالعاده\u200C است! گفتم بفرستم تو هم امتحان کنی.\uD83D\uDC7E\uD83E\uDD29\\nاینم لینک وبسایتشه: https://axonnegar.ir\","
+  "shareAppMessage": "\"کشف جدید من در دنیای تکنولوژی! این برنامه هوش مصنوعی فوق\u200Cالعاده\u200C است! گفتم بفرستم تو هم امتحان کنی.\uD83D\uDC7E\uD83E\uDD29\\nاینم لینک وبسایتشه: https://axonnegar.ir\",",
+  "accessToN8NGround": "دسترسی به N8N Ground",
+  "transactionsHistory": "تاریخچه تراکنش‌ها",
+  "noTransactionsFound": "هیچ تراکنشی یافت نشد",
+  "transaction": "تراکنش"
 }

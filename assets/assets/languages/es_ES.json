@@ -890,5 +890,9 @@
   "tanha": "Tanha",
   "noDescription": "Sin descripción",
   "activate": "Activar",
-  "shareAppMessage": "¡Mi nuevo descubrimiento en el mundo de la tecnología! ¡Este programa de IA es increíble! Pensé en enviártelo para que tú también lo pruebes.👾🤩\nAquí tienes el enlace a su sitio web: https://axonnegar.ir"
+  "shareAppMessage": "¡Mi nuevo descubrimiento en el mundo de la tecnología! ¡Este programa de IA es increíble! Pensé en enviártelo para que tú también lo pruebes.👾🤩\nAquí tienes el enlace a su sitio web: https://axonnegar.ir",
+  "accessToN8NGround": "Acceso a N8N Ground",
+  "transactionsHistory": "Historial de transacciones",
+  "noTransactionsFound": "No se encontraron transacciones",
+  "transaction": "Transacción"
 }

@@ -890,5 +890,9 @@
   "tanha": "Tanha",
   "noDescription": "Açıklama yok",
   "activate": "Etkinleştir",
-  "shareAppMessage": "Teknoloji dünyasındaki yeni keşfim! Bu yapay zeka programı inanılmaz! Denemen için sana da göndereyim dedim.👾🤩\nİşte web sitelerinin linki: https://axonnegar.ir"
+  "shareAppMessage": "Teknoloji dünyasındaki yeni keşfim! Bu yapay zeka programı inanılmaz! Denemen için sana da göndereyim dedim.👾🤩\nİşte web sitelerinin linki: https://axonnegar.ir",
+  "accessToN8NGround": "N8N Ground Erişimi",
+  "transactionsHistory": "İşlem Geçmişi",
+  "noTransactionsFound": "İşlem bulunamadı",
+  "transaction": "İşlem"
 }
