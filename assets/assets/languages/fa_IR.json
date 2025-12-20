@@ -471,7 +471,7 @@
   "switchToLineChart": "تغییر به نمودار خطی",
   "switchToBarChart": " تغییر به نمودار میله ای",
   "top5AIModelsInTheLast5Days": "۵ مدل برتر هوش مصنوعی در ۵ روز گذشته",
-  "top5AIModesInTheLast5Days": "۵ حالت برتر هوش مصنوعی در ۵ روز گذشته",
+  "top5AIModesInTheLast5Days": "۵ مود برتر هوش مصنوعی در ۵ روز گذشته",
   "object1": "شیء ۱",
   "object2": "شیء ۲",
   "objectHintText1": "آیفون ۱۶ پرو مکس",
@@ -894,5 +894,10 @@
   "accessToN8NGround": "دسترسی به N8N Ground",
   "transactionsHistory": "تاریخچه تراکنش‌ها",
   "noTransactionsFound": "هیچ تراکنشی یافت نشد",
-  "transaction": "تراکنش"
+  "transaction": "تراکنش",
+  "walletDeduction": "کسر از کیف پول",
+  "totalCost": "هزینه کل",
+  "finalPayable": "مبلغ قابل پرداخت",
+  "payWithWallet": "پرداخت با کیف پول",
+  "confirmYourPurchase": "تایید خرید"
 }

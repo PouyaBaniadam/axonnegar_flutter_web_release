@@ -894,5 +894,10 @@
   "accessToN8NGround": "Acceso a N8N Ground",
   "transactionsHistory": "Historial de transacciones",
   "noTransactionsFound": "No se encontraron transacciones",
-  "transaction": "Transacción"
+  "transaction": "Transacción",
+  "walletDeduction": "Deducción de saldo",
+  "totalCost": "Costo total",
+  "finalPayable": "Total a pagar",
+  "payWithWallet": "Pagar con billetera",
+  "confirmYourPurchase": "Confirmar compra"
 }

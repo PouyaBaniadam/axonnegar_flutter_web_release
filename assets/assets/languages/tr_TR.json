@@ -894,5 +894,10 @@
   "accessToN8NGround": "N8N Ground Erişimi",
   "transactionsHistory": "İşlem Geçmişi",
   "noTransactionsFound": "İşlem bulunamadı",
-  "transaction": "İşlem"
+  "transaction": "İşlem",
+  "walletDeduction": "Cüzdan indirimi",
+  "totalCost": "Toplam maliyet",
+  "finalPayable": "Ödenecek tutar",
+  "payWithWallet": "Cüzdan ile öde",
+  "confirmYourPurchase": "Satın alımı onayla"
 }
