@@ -869,8 +869,6 @@
   "shabnam": "Shabnam",
   "yekan": "Yekan",
   "dana": "Dana",
-  "hideChatInput": "Sohbet girişini gizle",
-  "showChatInput": "Sohbet girişini göster",
   "lastMessage": "Son mesaj",
   "firstMessage": "İlk mesaj",
   "collapse": "Daralt",
@@ -890,7 +888,7 @@
   "tanha": "Tanha",
   "noDescription": "Açıklama yok",
   "activate": "Etkinleştir",
-  "shareAppMessage": "Teknoloji dünyasındaki yeni keşfim! Bu yapay zeka programı inanılmaz! Denemen için sana da göndereyim dedim.👾🤩\nİşte web sitelerinin linki: https://axonnegar.ir",
+  "shareAppMessage": "🧠✨ **AxonNegar | Nihai Yapay Zeka Komuta Merkezi** ✨🧠\n\n🚀 **Dünyanın en güçlü YZ modellerine tek bir yerden hükmedin!**\nAkıllı sohbetlerden gelişmiş otomasyona kadar; AxonNegar her şeyi yapar. ⚡\n\n⭐ **Premium Özellikler:**\n\n🌐 **Çoklu Model Zekası**\nDevlerle sohbet edin: `GPT-4o`, `Gemini 1.5 Pro` ve `Grok`! En iyi sonuç için modeller arasında anında geçiş yapın. 🤖\n\n🎭 **Özel Yapay Zeka Modları**\nSadece bir sohbet değil! Kodlama 💻, Yaratıcı Yazarlık ✍️ veya Derin Araştırma 🔍 gibi görevler için özel modları kullanın.\n\n📋 **Profesyonel Prompt Paketleri**\nTahmin yürütmeyi bırakın! Yüksek performanslı, hazır şablon kütüphanesine erişin. Kopyalayın, yapıştırın ve başarın! 💎\n\n🏗️ **n8n Ground**\nİş akışınızda devrim yaratın! Profesyonel `.json` otomasyon dosyalarını indirin ve verimliliğinizi otomatik pilota alın. ⚙️\n\n💎 **Neden AxonNegar?**\n▫️ ⚡ **Yıldırım Hızında:** Gecikmesiz, gerçek zamanlı yanıtlar.\n▫️ 🎨 **Şık Tasarım:** Modern, minimalist ve karanlık mod uyumlu arayüz.\n▫️ 🚫 **Sıfır Reklam:** Rahatsız edici reklamlar yok, sadece saf zeka.\n▫️ 🛠️ **Geliştirici Dostu:** Güçlü kullanıcılar ve otomasyon uzmanları için tasarlandı.\n\n📥 **Zekanın geleceğine bugün katılın!**\n\n🔗 **Web Sitesi:** https://axonnegar.ir\n📱 **Telegram:** https://t.me/AxonNegar\n📧 **Destek:** axonnegar.dev@gmail.com\n\n✨ **AxonNegar ile gelecek ellerinizde...** ✨",
   "accessToN8NGround": "N8N Ground Erişimi",
   "transactionsHistory": "İşlem Geçmişi",
   "noTransactionsFound": "İşlem bulunamadı",
@@ -899,5 +897,11 @@
   "totalCost": "Toplam maliyet",
   "finalPayable": "Ödenecek tutar",
   "payWithWallet": "Cüzdan ile öde",
-  "confirmYourPurchase": "Satın alımı onayla"
+  "confirmYourPurchase": "Satın alımı onayla",
+  "quantumMesh": "Kuantum Ağı",
+  "fluxGravity": "Yerçekimi Akısı",
+  "geometricTunnel": "Geometrik Tünel",
+  "isoHive": "İzometrik Kovan",
+  "zenithMandala": "Zenit Mandalası",
+  "aethericRibbons": "Eterik Şeritler"
 }

@@ -869,8 +869,6 @@
   "shabnam": "Shabnam",
   "yekan": "Yekan",
   "dana": "Dana",
-  "hideChatInput": "Ocultar campo de entrada",
-  "showChatInput": "Mostrar campo de entrada",
   "lastMessage": "Último mensaje",
   "firstMessage": "Primer mensaje",
   "collapse": "Contraer",
@@ -890,7 +888,7 @@
   "tanha": "Tanha",
   "noDescription": "Sin descripción",
   "activate": "Activar",
-  "shareAppMessage": "¡Mi nuevo descubrimiento en el mundo de la tecnología! ¡Este programa de IA es increíble! Pensé en enviártelo para que tú también lo pruebes.👾🤩\nAquí tienes el enlace a su sitio web: https://axonnegar.ir",
+  "shareAppMessage": "🧠✨ **AxonNegar | El Centro de Comando de IA Definitivo** ✨🧠\n\n🚀 **¡Domina los modelos de IA más potentes del mundo en un solo lugar!**\nDesde conversaciones inteligentes hasta automatización avanzada: AxonNegar lo hace todo. ⚡\n\n⭐ **Características Premium:**\n\n🌐 **Inteligencia Multimodelo**\nChatea con los titanes: `GPT-4o`, `Gemini 1.5 Pro` y `Grok`. ¡Cambia de modelo al instante para obtener la mejor perspectiva! 🤖\n\n🎭 **Modos de IA Especializados**\n¡Mucho más que un chat! Usa modos diseñados para tareas específicas como Programación 💻, Escritura Creativa ✍️ o Investigación Profunda 🔍.\n\n📋 **Paquetes de Prompts Pro**\n¡Deja de adivinar! Accede a una biblioteca de plantillas de alto rendimiento listas para usar. ¡Copiar, pegar y triunfar! 💎\n\n🏗️ **El n8n Ground**\n¡Revoluciona tu flujo de trabajo! Descarga archivos de automatización `.json` profesionales y pon tu productividad en piloto automático. ⚙️\n\n💎 **¿Por qué AxonNegar?**\n▫️ ⚡ **Velocidad Rayo:** Respuestas en tiempo real sin esperas.\n▫️ 🎨 **Interfaz Elegante:** Diseño moderno, minimalista y modo oscuro.\n▫️ 🚫 **Sin Distracciones:** Sin anuncios molestos, solo inteligencia pura.\n▫️ 🛠️ **Listo para Devs:** Creado para usuarios avanzados y expertos en automatización.\n\n📥 **¡Únete hoy al futuro de la inteligencia!**\n\n🔗 **Sitio Web:** https://axonnegar.ir\n📱 **Telegram:** https://t.me/AxonNegar\n📧 **Soporte:** axonnegar.dev@gmail.com\n\n✨ **Con AxonNegar, el futuro está en tus manos...** ✨",
   "accessToN8NGround": "Acceso a N8N Ground",
   "transactionsHistory": "Historial de transacciones",
   "noTransactionsFound": "No se encontraron transacciones",
@@ -899,5 +897,11 @@
   "totalCost": "Costo total",
   "finalPayable": "Total a pagar",
   "payWithWallet": "Pagar con billetera",
-  "confirmYourPurchase": "Confirmar compra"
+  "confirmYourPurchase": "Confirmar compra",
+  "quantumMesh": "Malla Cuántica",
+  "fluxGravity": "Flujo Gravitacional",
+  "geometricTunnel": "Túnel Geométrico",
+  "isoHive": "Colmena Isométrica",
+  "zenithMandala": "Mandala Zenit",
+  "aethericRibbons": "Cintas Etéreas"
 }

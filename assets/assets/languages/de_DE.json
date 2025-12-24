@@ -869,8 +869,6 @@
   "shabnam": "Shabnam",
   "yekan": "Yekan",
   "dana": "Dana",
-  "hideChatInput": "Chateingabe ausblenden",
-  "showChatInput": "Chateingabe einblenden",
   "lastMessage": "Letzte Nachricht",
   "firstMessage": "Erste Nachricht",
   "collapse": "Einklappen",
@@ -890,7 +888,7 @@
   "tanha": "Tanha",
   "noDescription": "Keine Beschreibung",
   "activate": "Aktivieren",
-  "shareAppMessage": "Meine neue Entdeckung in der Welt der Technologie! Dieses KI-Programm ist unglaublich! Ich dachte, ich schicke es dir, damit du es auch ausprobieren kannst.👾🤩\nHier ist der Link zur Website: https://axonnegar.ir",
+  "shareAppMessage": "🧠✨ **AxonNegar | Die ultimative KI-Kommandozentrale** ✨🧠\n\n🚀 **Beherrsche die mächtigsten KI-Modelle der Welt an einem Ort!**\nVon intelligenten Gesprächen bis hin zu fortschrittlicher Automatisierung – AxonNegar macht alles möglich. ⚡\n\n⭐ **Premium-Features:**\n\n🌐 **Multi-Modell-Intelligenz**\nChatte mit den Titanen: `GPT-4o`, `Gemini 1.5 Pro` und `Grok`! Wechsle die Modelle sofort für die besten Ergebnisse. 🤖\n\n🎭 **Spezialisierte KI-Modi**\nKein gewöhnlicher Chat! Nutze maßgeschneiderte Modi für Coding 💻, kreatives Schreiben ✍️ oder Tiefenforschung 🔍.\n\n📋 **Pro Prompt-Pakete**\nSchluss mit Raten! Greife auf eine Bibliothek leistungsstarker, einsatzbereiter Vorlagen zu. Einfach kopieren, einfügen und Erfolg haben! 💎\n\n🏗️ **Der n8n Ground**\nRevolutioniere deinen Workflow! Lade professionelle `.json`-Automatisierungsdateien herunter und setze deine Produktivität auf Autopilot. ⚙️\n\n💎 **Warum AxonNegar?**\n▫️ ⚡ **Blitzschnell:** Echtzeit-Antworten ohne Verzögerung.\n▫️ 🎨 **Edles Design:** Modernes, minimalistisches UI mit Dark-Mode.\n▫️ 🚫 **Keine Ablenkung:** Keine nervige Werbung – nur pure Intelligenz.\n▫️ 🛠️ **Dev-Ready:** Entwickelt für Power-User und Automatisierungs-Experten.\n\n📥 **Werde noch heute Teil der Zukunft!**\n\n🔗 **Webseite:** https://axonnegar.ir\n📱 **Telegram:** https://t.me/AxonNegar\n📧 **Support:** axonnegar.dev@gmail.com\n\n✨ **Mit AxonNegar liegt die Zukunft in deinen Händen...** ✨",
   "accessToN8NGround": "Zugang zu N8N Ground",
   "transactionsHistory": "Transaktionsverlauf",
   "noTransactionsFound": "Keine Transaktionen gefunden",
@@ -899,5 +897,11 @@
   "totalCost": "Gesamtkosten",
   "finalPayable": "Endbetrag",
   "payWithWallet": "Mit Wallet bezahlen",
-  "confirmYourPurchase": "Kauf bestätigen"
+  "confirmYourPurchase": "Kauf bestätigen",
+  "quantumMesh": "Quantennetz",
+  "fluxGravity": "Gravitationsfluss",
+  "geometricTunnel": "Geometrischer Tunnel",
+  "isoHive": "Isometrischer Bienenstock",
+  "zenithMandala": "Zenith Mandala",
+  "aethericRibbons": "Ätherische Bänder"
 }
