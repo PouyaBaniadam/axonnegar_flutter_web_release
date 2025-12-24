@@ -907,5 +907,7 @@
   "preview": "Preview",
   "showChatInputAndHeader": "Show Chat-Input & Header",
   "addMoreSpaceToScreen": "Add more space to screen",
-  "swapColors": "Swap colors"
+  "swapColors": "Swap colors",
+  "connectionLost": "Connection lost",
+  "connectionOn": "Connection on"
 }
